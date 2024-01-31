@@ -1,2 +1,2 @@
-# .github
-organization 설명을 위한 리드미 파일입니다.
+# 💻 시큐센 프로젝트 연습 orfanization
+- 🌠각각 repository를 생성하여 프로젝트를 연습할 수 있습니다🌠
